@@ -1,0 +1,6774 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HxUsedShaderVariantCollection
+  m_Shaders:
+  - first: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON
+        passType: 0
+      - keywords: SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON
+        passType: 0
+      - keywords: FULL_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+        passType: 0
+      - keywords: NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON
+        passType: 0
+      - keywords: NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+  - first: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON
+        passType: 0
+      - keywords: FULL_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON
+        passType: 0
+      - keywords: NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+  - first: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON
+        passType: 0
+      - keywords: SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON
+        passType: 0
+      - keywords: FULL_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+        passType: 0
+      - keywords: NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON
+        passType: 0
+      - keywords: NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+  - first: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON POINT_COOKIE
+        passType: 0
+      - keywords: SHADOWS_OFF
+        passType: 0
+      - keywords: POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON
+        passType: 0
+      - keywords: FULL_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON POINT_COOKIE
+        passType: 0
+      - keywords: FULL_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: NOISE_ON
+        passType: 0
+      - keywords: NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: FULL_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON POINT_COOKIE
+        passType: 0
+      - keywords: HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON POINT_COOKIE
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+        passType: 0
+      - keywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+        passType: 0
+--- !u!21 &21000595519358670
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21009669186924182
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21016419175600362
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21017784337427980
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21018503273391320
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21027816327927142
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21029228194677804
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21030802844884162
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21032723075496620
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21042282676569006
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21044625282992242
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21045484118784024
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21046890619385302
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21052129932346932
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21052289576083842
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21053818159343252
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21059558057215156
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21060742975193046
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21068550067590546
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21069478808070432
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21070341776961188
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21070758585166532
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21071830833878734
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21078001326952226
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21083029961335994
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21083670761530562
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21086099192170652
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21086510215450730
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21088126704947796
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21092983870260242
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21094569305243998
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21096472365523952
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21098434052034008
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21116579880382442
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21117536521111144
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21125092392199838
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21128637196636398
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21138216972739658
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21139512912371552
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21139936667021780
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21142557702741350
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21143110296313010
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21146140195515976
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21148339780905704
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21153112059417488
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21153862415367136
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21159745785503108
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21160578481114446
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21171740733318044
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21173876630158164
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21174654297145256
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21176116639333338
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21182497945755988
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21187528889040102
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21188702677028740
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21189048065334722
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21191377406161064
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21194476699232252
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21196719175618368
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21198310225800576
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21201078698122880
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21201578062030190
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21202009553534064
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21216649686565438
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21217014319640896
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21217819428048444
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21235397761244458
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21236183718177032
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21238837269927688
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21240116147738340
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21241667072310126
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21243332430130108
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21245955547749660
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21246465133415940
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21247239274010844
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21252478907945950
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21257258549027282
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21260194175856550
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21260659344814930
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21267017473152648
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21269641506228294
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21282900170678406
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21285856270716956
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21287914050547038
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21290035994764564
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21290717701210002
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21291840694279954
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21291964206111608
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21292661810776286
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21294712195682810
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21294746981360916
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21296079087161630
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21297882950703988
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21299961765206094
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21303250661581874
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21304297570030966
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21307706048564744
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21312133475186580
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21315273744872336
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21318156946948384
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21319710046528126
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21325993355534286
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21326057050484940
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21332516252953642
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21333387780445626
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21336494066692240
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21337412093193602
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21337475869398652
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21338900101719822
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21341845447730574
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21343095777526022
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21348316997988358
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21350284766579400
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21350532393628112
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21355856245634618
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21357753509654366
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21362328349020880
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21365759195069926
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21367699217090326
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21369133293147906
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21372587242586868
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21372712003796058
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21372896688841812
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21373489022362716
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21375336326441742
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21379124632731080
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21383353856544304
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21386331964242634
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21388763167017178
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21394743555881950
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21398380735598836
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21398796995408318
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21403303787207038
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21407308243255586
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21411506899174272
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21411555027561486
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21411656027760424
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21418839760850840
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21420209313802992
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21421175725188802
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21423882468605404
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21426257928370810
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21434867694406380
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21435182489623320
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21442268919708664
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21448094327868232
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21475624945178652
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21482355169145868
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21482630649322606
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21484050511251492
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21484302663799478
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21484760854212354
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21485297494384358
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+    SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21490358640877646
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21497065241635408
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21498666709202314
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21499221523355774
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21504211006319908
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21509439591590628
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21509611584300126
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21513455813934162
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21516138437301574
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21523587669997076
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21526346965319352
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21527959736793518
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21528772720959330
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21529900628805936
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21530030718126654
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21530343512898424
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21531854158021488
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21532174973619548
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21534598890911748
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21547343617221834
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21548710879325190
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21555630775900444
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21563095527459890
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21564243046519792
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21565717281624016
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21566923279623258
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21572341476130782
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21581745977556840
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21582636009555344
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21585723200269712
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21591946655472878
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21592843743336386
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21594701247185846
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21603915902442348
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21606593663413538
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21610799916874058
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21614163536819012
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21618111602634056
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21620105788845280
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21622210562184364
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21624704258165936
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21627135593350164
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21629801599398138
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21631493700909658
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21635136807036900
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21636056451960238
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21636598919221706
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21636856465597346
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21639524065220664
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21639879064898602
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21639953132829184
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21645035911877158
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21645092366463570
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21647954993810352
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21650859064561680
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21655650365889254
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21655800710244578
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21656145117241346
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21657035907628366
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21663621050729218
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21667764457735252
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21669838881419820
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21675362274646332
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21676451617693560
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21676812791765858
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21677648788687486
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21678475423005956
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21678724920980486
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21683743713619158
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21684668757148154
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21686341952294104
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21686414218056646
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21690220247981738
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21690419122081432
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21695900280467132
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21699414697373358
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21710879090286878
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21714074597255278
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21717236064044012
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21717990711071620
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21721393479809886
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21725098035019474
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21731500129079844
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21749890605976692
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21751610124015588
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21754237494903902
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21756083105253048
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21756458456532104
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21766323000375758
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21769466620751984
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21780193779123064
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21782416209409780
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21784174209588964
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21784246931583102
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21789825242593516
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21792550552168844
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21794687497273658
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21795717588098588
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21802086685368184
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21809404468760236
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21809872305105358
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21809887584583064
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21813691962553380
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21819132721595302
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21819542192594386
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21819997093773134
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21825934887436764
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21826249680440364
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21828881460022662
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21829402577440898
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21833958975156310
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21835745272172424
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21839983323742588
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21840448870349268
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21849968397866556
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21852736074497956
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21857139917286004
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21862007564492390
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21864509409499586
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21866040370047664
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21866729072304810
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21869245769542480
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21871345466287702
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21874803083130172
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21875940956234744
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21879928872038146
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21880024873213596
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21891448992920620
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21891753733411984
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21891828448777996
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21892293524480244
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21896321418760776
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21896616841244664
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON NOISE_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21898774092791814
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21901892238711612
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21903205971427806
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21904701018973654
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21917462765515066
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21918544945272446
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21925220696884456
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21930151960648972
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21931491747521522
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21933093439021410
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21933742054194172
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: 7c8ef85e76c05f341a66461ff8df1792, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21939590075656986
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21940353954805986
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21943641011033212
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21946101931642212
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON POINT_COOKIE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21948193374737932
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21948490157960982
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21949406196383950
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21950502841753122
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21956548546721496
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21961999625639742
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21966856014112356
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON HEIGHTFOG_ON NOISE_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21967148965544292
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21969986878737394
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21971390499359516
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON NOISE_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21972624737136444
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21973019410349886
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON FULL_ON HEIGHTFOG_ON SHADOWS_NATIVE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21976643591875142
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: a2146839e81671849afce84b1a3e3cbf, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON NOISE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21982055572118126
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: FULL_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21985548076675800
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: e018c43c94e977a4391a157071caa9d8, type: 3}
+  m_ShaderKeywords: HEIGHTFOG_ON NOISE_ON POINT_COOKIE SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21991226964719396
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21993303261320590
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21998289561037480
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: DENSITYPARTICLES_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
+--- !u!21 &21998777878897162
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_Shader: {fileID: 4800000, guid: c1d9a54d81528704491362fc61968e7e, type: 3}
+  m_ShaderKeywords: FULL_ON HEIGHTFOG_ON SHADOWS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats: []
+    m_Colors: []
